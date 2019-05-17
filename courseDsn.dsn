@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=SQL Server
+UID=ifecdr
+WSID=IFE-PC
+APP=Microsoft® Windows® Operating System
+SERVER=clemydatacenter.database.windows.net
+Description=CourseDsn
